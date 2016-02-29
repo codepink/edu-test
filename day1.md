@@ -5,9 +5,9 @@
 
 ### 장점
 - 문제 발생 시
-- 
 
 ### 다운로드
 - https://www.charlesproxy.com/download/
 
-###
+### 카르마 설명
+- http://www.bradoncode.com/blog/2015/02/27/karma-tutorial/
