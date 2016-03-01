@@ -9,5 +9,5 @@
 
 #### 설치
 1. <https://www.charlesproxy.com/download/> 에서 OS에 맞는 최신 버전의 설치 파일을 다운로드 한다. (Mac OS X 환경은 dmg 파일 다운로드)
-2. 다운로드한 dmg 파일 실행하여 설치 진행
-3. ![ScreenShot](/screenshot/charles01.png)
+2. 다운로드한 dmg 파일을 실행하여 설치 진행
+![ScreenShot](/screenshot/charles01.png)
