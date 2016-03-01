@@ -10,10 +10,10 @@
   
 #### 설치
 1. <https://www.charlesproxy.com/download/> 에서 OS에 맞는 최신 버전의 설치 파일을 다운로드 한다. (Mac OS X 환경은 dmg 파일 다운로드, 유료 라이센트 구매 필요)
-2. 다운로드한 dmg 파일을 실행하여 설치 진행
-![ScreenShot](/screenshot/charles01.png)  
+2. 다운로드한 dmg 파일을 실행하여 설치 진행  
+![ScreenShot](/screenshot/charles01.png)
 3. 통신 캡쳐링을 위한 세팅 : 실행 후 [Proxy] > [Mac OS X Proxy] 메뉴가 활성화 되어있는지 확인한다. (비활성화된 경우 체크)  
-![ScreenShot](/screenshot/charles02.png)  
+![ScreenShot](/screenshot/charles02.png)
   
   
 #### 맛보기
@@ -37,6 +37,6 @@
   ![ScreenShot](/screenshot/charles05.png)  
   2. 브라우저 캐시 삭제 후 페이지 리로드하면 이미지가 변경된다.  
   ![ScreenShot](/screenshot/charles06.png)  
-- Map Local Tool : 원격 서버의 파일을 로컬 파일로 대체할 수 있다. 수정된 파일을 서버에 업로드 하지 않아도 로컬에서 바로 확인할 수 있어 테스트 환경에서 유리하다.
+- Map Local Tool : 원격 서버의 파일을 로컬 파일로 대체할 수 있다. 수정된 파일을 서버에 업로드 하지 않아도 로컬에서 바로 확인할 수 있어 테스트 환경에서 유리하다.  
   [테스트 2] alert 실행 코드를 추가한 로컬 파일로 변경하여 스크립트 실행
 
