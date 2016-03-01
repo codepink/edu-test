@@ -31,7 +31,7 @@
   
 #### 툴 활용하기 (테스트 예제)
 ![ScreenShot](/screenshot/charles04.png)  
-- Map Remote Tool : 서버로부터 리소스 파일의 요청지를 변경할 수 있다.
+- Map Remote Tool : 서버로부터 리소스 파일의 요청지를 변경할 수 있다.  
   [테스트 1] 다른 서버의 이미지로 변경하기
   1. [Tools] > [Map Remote] 메뉴 클릭하여 현재 응답 리소스와 변경할 리소스의 요청지 정보를 입력한다.  
   ![ScreenShot](/screenshot/charles05.png)  
