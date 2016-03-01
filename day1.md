@@ -13,6 +13,7 @@
 2. 다운로드한 dmg 파일을 실행하여 설치 진행  
 ![ScreenShot](/screenshot/charles01.png)
 3. 통신 캡쳐링을 위한 세팅 : 실행 후 [Proxy] > [Mac OS X Proxy] 메뉴가 활성화 되어있는지 확인한다. (비활성화된 경우 체크)  
+
 ![ScreenShot](/screenshot/charles02.png)
   
   
