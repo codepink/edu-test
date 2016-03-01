@@ -37,9 +37,9 @@
 ##### [테스트 1] 다른 서버의 이미지로 변경하기 (Map Remote 사용)
 1. [Tools] > [Map Remote] 메뉴 클릭하여 현재 응답 리소스와 변경할 리소스의 요청지 정보를 입력한다.   
 ![ScreenShot](/screenshot/charles05.png)  
-2. 브라우저 캐시 삭제 후 재 요청하면 이미지가 변경된다. (응답 Body 내 이미지 URL은 변경되지 않는다)
-![ScreenShot](/screenshot/charles06.png)  
-![ScreenShot](/screenshot/charles07.png)
+2. 브라우저 캐시 삭제 후 재 요청하면 이미지가 변경된다. (응답 body 내 이미지 URL은 변경되지 않는다) 
+[origin] ![ScreenShot](/screenshot/charles06.png)  
+[modify] ![ScreenShot](/screenshot/charles07.png)
 
 ##### [테스트 2] alert 실행 코드를 추가한 로컬 파일로 변경하여 스크립트 실행 (Map Local 사용)
 
