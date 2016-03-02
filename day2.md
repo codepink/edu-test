@@ -56,9 +56,9 @@
 3. Jasmine으로 테스트 코드 작성
 4. Karma 연동
     - 테스트를 위한 자바스크립트 라이브러리를 로드해야 한다.
-    - 2번에 해당하는 파일을 수정한다.  
-    ![ScreenShot](/screenshot/day2_02.png)    
-    ![ScreenShot](/screenshot/day2_03.png)
+    - 2번에 해당하는 파일을 수정한다. (**files** 설정에 해당) 
+    ![ScreenShot](/screenshot/day2_02.png)  
 5. Karma 실행
     - 프로젝트 루트에서 **karma start** 명령어를 실행한다.
-    - 커맨드 라인으로 상태 확인 가능
+    - 커맨드 라인으로 상태 확인 가능  
+    ![ScreenShot](/screenshot/day2_03.png)  
