@@ -1,8 +1,13 @@
-### Karama
+### Jasmine & Karama
 
-##### Karma란?
+##### Jasmine
+- 자바스크립트용 유닛 테스트 프레임워크(Unit Test Framework)의 한 종류이다.
+- 유사 프레임워크로는 QUnit, mocha.js, Sinon 등이 있다. (<http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd>)
+
+##### Karma
 - 테스트 러너(Test Runner)라고 부른다.
-- Jasmine, QUit 등의 유닛 테스트 프레임워크와는 다르다. (= 유닛 테스트를 실행하는 환경이라고 보면 된다)
+- 유닛 테스트 프레임워크와는 다르다. (= 유닛 테스트 코드를 실행하는 도구라고 보면 된다)
+- 터미널 환경에서 유닛 테스트 실행을 확인할 수 있다.
 
 ##### Karma 설치하기
 1. Node.js 상에서 npm 패키지로 설치 가능하다.
