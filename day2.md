@@ -1,4 +1,4 @@
-### Jasmine & Karama
+## Jasmine & Karama
 
 
 ##### Jasmine
@@ -51,11 +51,14 @@
     - <http://bower.io/search/>에서 필요로 하는 패키지를 검색해서 설치할 수 있다.
     - 예제에서는 <https://github.com/sjswoboda/karma-jasmine-runner2-reporter> 패키지 설치
 2. Karma 초기화
-    - karam.conf.js 파일 생성이 필요하며 **karma init** 명령어로 생성한다.
+    - karam.conf.js 파일 생성이 필요하며 **karma init** 명령어로 생성한다.  
+    ![ScreenShot](/screenshot/day2_01.png)  
 3. Jasmine으로 테스트 코드 작성
 4. Karma 연동
     - 테스트를 위한 자바스크립트 라이브러리를 로드해야 한다.
-    - 2번에 해당하는 파일을 수정한다.
+    - 2번에 해당하는 파일을 수정한다.  
+    ![ScreenShot](/screenshot/day2_02.png)    
+    ![ScreenShot](/screenshot/day2_03.png)
 5. Karma 실행
     - 프로젝트 루트에서 **karma start** 명령어를 실행한다.
     - 커맨드 라인으로 상태 확인 가능
