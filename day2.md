@@ -32,10 +32,13 @@
 - toBeCloseTo()
 - toMatch()
 - toThrow()
+- spyOn()
 
 ##### Jasmine 비동기 테스트
-
-
+1. 다음 2개 API를 사용하여 테스트
+    - runs() : 비동기 테스트 함수 호출 시 순차적으로 다음 코드를 실행시켜 줄 때 사용한다.
+    - waitsFor() : 함수 호출시 결과 값이 true 일 때만 다음 코드를 실행할 수 있다. (타임아웃 발생 가능)
+2. **jasmine-ajax 플러그인(<http://jasmine.github.io/2.0/ajax.html>)** 사용하여 테스트
 
 ##### Karma
 - 테스트 러너(Test Runner)라고 부른다.
