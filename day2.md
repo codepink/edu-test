@@ -18,7 +18,7 @@
 
 ##### Karma 설치하기
 1. Node.js 상에서 npm 패키지로 설치 가능하다.
-2. <https://nodejs.org/en/download/> 에서 Node.js 설치한다. ()
+2. <https://nodejs.org/en/download/> 에서 Node.js 설치한다.
 3. Node.js 설치 완료하면 다음 명령어로 karma 설치를 진행한다.
     $npm install -g karama
 4. karma가 정상적으로 설치되었는지 확인한다.
