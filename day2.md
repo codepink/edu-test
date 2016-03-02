@@ -55,7 +55,7 @@
     ![ScreenShot](/screenshot/day2_01.png)  
 3. Karma 연동
     - 테스트를 위한 자바스크립트 라이브러리를 로드해야 한다.
-    - 2번에 해당하는 파일을 수정한다. (**files** 설정에 해당) 
+    - 2번에 해당하는 파일을 수정한다. (**files** 설정값에 해당) 
     ![ScreenShot](/screenshot/day2_02.png)
 4. Karma 정상 실행 확인
     - 프로젝트 루트에서 **karma start** 명령어를 실행한다.
