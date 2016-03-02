@@ -48,8 +48,7 @@
 ##### Jasmine & Karma 테스트
 1. bower로 프로젝트 구성
     - bower는 npm, gem 같은 FE 패키지 매니저다.
-    - <http://bower.io/search/>에서 필요로 하는 패키지를 검색해서 설치할 수 있다.
-    - 예제에서는 <https://github.com/sjswoboda/karma-jasmine-runner2-reporter> 패키지 설치
+    - <http://bower.io/search/>에서 필요로 하는 패키지를 검색해서 설치할 수 있다. (참조 : <https://github.com/sjswoboda/karma-jasmine-runner2-reporter> 패키지 설치)
 2. Karma 초기화
     - karam.conf.js 파일 생성이 필요하며 **karma init** 명령어로 생성한다.  
     ![ScreenShot](/screenshot/day2_01.png)  
