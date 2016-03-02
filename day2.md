@@ -1,13 +1,39 @@
 ### Jasmine & Karama
 
+
 ##### Jasmine
 - 자바스크립트용 유닛 테스트 프레임워크(Unit Test Framework)의 한 종류이다.
 - 유사 프레임워크로는 QUnit, mocha.js, Sinon 등이 있다. (<http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd>)
+- BDD 기반 (<https://en.wikipedia.org/wiki/Behavior-driven_development>)
+
+##### Jasmine 주요 용어
+- Suite
+    - 무엇을 테스트 하는지 용도를 설명하기 위함
+    - describe() 함수에 해당
+    - 1개의 Suite 안에는 여러 개의 Spec이 존재할 수 있다.
+- Spec
+    - 무엇을 테스트 할지에 대한 명세(Specification)
+    - it() 함수에 해당
+- Macher
+    - 어떤 Suite로 코드를 테스트 했을 때 정상적인 결과값(true)을 반영하는지 체크하는 것
+    - Jasmine API에 해당
+    - **내장 매쳐(API)** 외 **유저 생성 매처**를 생성할 수 있다.
 
 ##### Jasmine 주요 API
+- toEqual()
+- toBe(), not.toBe()
+- toBeTruthy(), toBeFalsy()
+- toContain(), not.toContain()
+- toBeDefined(), toBeUndefined()
+- toBeNull()
+- toBeNaN()
+- toBeGreaterThan()
+- toBeLessThan()
+- toBeCloseTo()
+- toMatch()
+- toThrow()
 
-
-##### Jasmine Ajax 테스트
+##### Jasmine 비동기 테스트
 
 
 
