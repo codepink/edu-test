@@ -45,11 +45,18 @@
 - 유닛 테스트 프레임워크와는 다르다. (= 유닛 테스트 코드를 실행하는 도구라고 보면 된다)
 - 터미널 환경에서 유닛 테스트 실행을 확인할 수 있다.
 
-##### Karma 설치하기
-1. Node.js 상에서 npm 패키지로 설치 가능하다.
-2. <https://nodejs.org/en/download/> 에서 Node.js 설치한다.
-3. Node.js 설치 완료하면 다음 명령어로 karma 설치를 진행한다.
-    $npm install -g karama
-4. karma가 정상적으로 설치되었는지 확인한다.
-    $karma --version
-    Karma version: 0. 13.2
+##### Jasmine & Karma 테스트
+1. bower로 프로젝트 구성
+    - bower는 npm, gem 같은 FE 패키지 매니저다.
+    - <http://bower.io/search/>에서 필요로 하는 패키지를 검색해서 설치할 수 있다.
+    - 예제에서는 <https://github.com/sjswoboda/karma-jasmine-runner2-reporter> 패키지 설치
+2. Karma 초기화
+    - karam.conf.js 파일 생성이 필요하며 **karma init** 명령어로 생성한다.
+3. Jasmine으로 테스트 코드 작성
+4. Karma 연동
+    - 테스트를 위한 자바스크립트 라이브러리를 로드해야 한다.
+    - 2번에 해당하는 파일을 수정한다.
+    test
+5. Karma 실행
+    - 프로젝트 루트에서 **karma start** 명령어를 실행한다.
+    - 커맨드 라인으로 상태 확인 가능
