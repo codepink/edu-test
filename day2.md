@@ -1,4 +1,4 @@
-## Jasmine & Karama
+## Jasmine & Karma
 
 
 ##### Jasmine
